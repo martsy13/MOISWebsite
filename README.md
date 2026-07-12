@@ -1,2 +1,0 @@
-# MOIS Digital
-UNDER CONSTRUCTION

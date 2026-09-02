@@ -13,6 +13,10 @@ body {
   color: white;
   background-color: #121212;
 }
+#logo a {
+  color: white;
+  text-decoration: none;
+}
 a {
   color: orange;
   font-size: 18;

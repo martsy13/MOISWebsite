@@ -17,7 +17,7 @@ a {
   color: orange;
   font-size: 18;
 }
-#logo a {
+.logo {
   color: white;
   text-decoration: none;
 }

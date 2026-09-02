@@ -1,0 +1,15 @@
+section {
+  display: none;
+}
+section:target {
+  display: block;
+}
+section:not(:target) {
+  display: none;
+}
+#home:not(:target) {
+}
+body {
+  color: white;
+  background-color: #4d4d4d;
+}
